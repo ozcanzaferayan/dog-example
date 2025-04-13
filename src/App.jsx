@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const App = () => {
-  // usss
+  // uss
   // array dönüyorsa boş array atıyorum.
   // object dönüyorsa null atıyorum.
   const [images, setImages] = useState([]);
